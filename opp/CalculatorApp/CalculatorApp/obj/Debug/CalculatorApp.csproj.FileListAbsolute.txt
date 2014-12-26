@@ -1,0 +1,13 @@
+E:\Projects\21-12-14\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\project\24-12-14\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\project\24-12-14\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\project\24-12-14\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\project\24-12-14\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\project\24-12-14\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+E:\project\24-12-14\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\project\24-12-14\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\project\24-12-14\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\project\24-12-14\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\project\24-12-14\opp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\project\24-12-14\opp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\project\24-12-14\opp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

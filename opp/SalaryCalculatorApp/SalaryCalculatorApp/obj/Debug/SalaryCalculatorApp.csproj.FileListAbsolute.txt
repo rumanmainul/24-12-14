@@ -1,0 +1,27 @@
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+F:\promit\class17.12.14\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.EmployeeSalaryCalculatorUI.resources
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.EmployeeSalaryCalculatorUI.resources
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+E:\project\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.EmployeeSalaryCalculatorUI.resources
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+G:\Fdrive\ftfl c#\24-12-14\opp\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache

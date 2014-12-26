@@ -1,0 +1,12 @@
+E:\msd projects\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+E:\msd projects\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+E:\msd projects\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+E:\msd projects\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+E:\msd projects\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+E:\msd projects\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+E:\project\24-12-14\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+E:\project\24-12-14\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+E:\project\24-12-14\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+E:\project\24-12-14\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+E:\project\24-12-14\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+E:\project\24-12-14\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache

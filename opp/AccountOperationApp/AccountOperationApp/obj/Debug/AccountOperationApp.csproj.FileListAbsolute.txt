@@ -1,0 +1,18 @@
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+E:\Projects\21-12-14\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOperationUI.resources
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.AccountOperationUI.resources
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+G:\Fdrive\ftfl c#\24-12-14\opp\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
